@@ -1,8 +1,16 @@
 theme: minima
 title: Darryl Christensen
 description: Software developer. Photographer. Human.
+author: "Darryl Christensen"
+
 header_pages:
- - about.md
+ - _pages/about.md
+ 
 minima:
  social_links:
   instagram: dmchristensen
+  
+include:
+ - _pages
+  
+ 
