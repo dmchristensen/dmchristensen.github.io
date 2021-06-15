@@ -1,2 +1,1 @@
-## Darryl Christensen
-This is my page.
+This is my home page.
