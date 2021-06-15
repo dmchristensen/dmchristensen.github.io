@@ -1,3 +1,3 @@
 ## Darryl Christensen
 
-*Software developer, photographer, human*
+*Software developer. Photographer. Human*
